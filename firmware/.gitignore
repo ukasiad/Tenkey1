@@ -1,0 +1,4 @@
+build/
+dist/
+*.obj
+Makefile-genesis.properties
